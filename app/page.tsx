@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Search } from "@/lib/component/Search";
 import { getRandomPhotos } from "@/lib/unsplah";
 import { headers } from "next/headers";
