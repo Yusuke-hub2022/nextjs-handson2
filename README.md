@@ -1,9 +1,8 @@
 # nextjs-handson2
 
 Photo search app from the book "基礎から学ぶ Next.js".
-Using API of [Unsplash](https://unsplash.com/ja).
 
-# 
+API of [Unsplash](https://unsplash.com/ja) is used.
 
 ## Demo
 
